@@ -1,0 +1,12 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator made in javascript/css/html",
+  "main": "index.js",
+  "scripts": {
+    "start": "python3 -m http.server 9000 --directory ./src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

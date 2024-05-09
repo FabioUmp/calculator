@@ -1,15 +1,18 @@
 # calculator
 
-A simple calculator made in javascript/css/html
+A Calculator built wilth nextjs
 
 ### Usage:
 
 ```bash
-yarn start
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 ```
 
-On your browser:
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-open [http://localhost:9000](http://localhost:9000)
-
-Proceed with inputs 0-9 and operations `[+, -, /, *]`

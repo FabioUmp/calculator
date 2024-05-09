@@ -42,7 +42,6 @@ const eval = (event) => {
         console.log(1);
         countSum = 0;
     }
-
     const evalMap = {
         "+": (a, b) => a + b,
         "-": (a, b) => a - b,
